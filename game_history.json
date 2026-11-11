@@ -1,0 +1,14 @@
+[
+  {
+    "round": 1,
+    "player_dice": 1,
+    "computer_dice": 1,
+    "winner": "jojo"
+  },
+  {
+    "round": 2,
+    "player_dice": 1,
+    "computer_dice": 3,
+    "winner": "Moshe"
+  }
+]

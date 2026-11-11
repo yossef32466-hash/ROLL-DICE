@@ -1,0 +1,4 @@
+
+def validatuon(text):
+    try:
+        
